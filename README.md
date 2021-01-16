@@ -1,4 +1,5 @@
 ﻿# resource-repo
+This repo has multiple branches to help segment topics/interested consumers. Please view the dropdown to see the categoriziation (i.e. windows, linux, splunk, etc)
 ## CloudProviders
 A list of external IP ranges that identify traffic destined to Public cloud vendors.
 ## ExternalInfra
