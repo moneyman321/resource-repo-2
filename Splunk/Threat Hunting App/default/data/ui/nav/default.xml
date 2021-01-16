@@ -1,0 +1,49 @@
+<nav search_view="search">
+  <view name="threat_hunting_overview" default="yes" />
+     <collection label="Drilldowns">
+		  <view name="mitre_attack_overview"/>        
+		  <view name="activity_drilldown"/>  
+        <view name="computer_drilldown"/>
+        <view name="user_drilldown"/>
+        <view name="file_create_drilldown"/>        
+	     <view name="network_connection_drilldown"/>        
+        <view name="pipe_drilldown"/>   	      
+        <view name="parentprocess_guid_drilldown"/>   	
+		  <view name="process_guid_drilldown"/>      
+    </collection>
+     <collection label="Stacking Tools">
+		  <view name="mitre_attack_stacking"/>
+        <view name="dns_stacking"/>
+    </collection> 
+    <collection label="Hunting Tools">
+         <view name="computer_investigator"/>
+    	   <view name="rare_process_chains"/>
+         <view name="search_based_drilldown"/>
+     </collection>       
+    <collection label="Hunting Indicators">
+        <view name="sysmon"/>
+    	<view name="lateral_movement_indicators"/>
+      	<view name="macro_drilldown"/>
+         <view name="powershell_events"/>
+         <view name="newly_observed_hashes"/>
+     </collection>
+    <collection label="Lists">
+        <view name="asset_priority"/>
+        <view name="process_create_whitelist"/>
+        <view name="network_whitelist"/>      
+        <view name="file_access_whitelist"/>
+        <view name="file_create_whitelist"/>        
+        <view name="process_access_whitelist"/>
+        <view name="remote_thread_whitelist"/>            
+        <view name="registry_whitelist"/>      
+        <view name="image_load_whitelist"/>
+        <view name="dns_whitelist"/>        
+        <view name="pipe_whitelist"/>
+        <view name="wmi_whitelist"/>      
+     </collection>
+    <collection label="About">     
+       <view name="about"/>  
+       <view name="coverage"/>
+    </collection>     
+  <view name="search" />
+</nav>
