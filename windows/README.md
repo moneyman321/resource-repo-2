@@ -1,3 +1,17 @@
+## DNSQuerySniffer
+Recon tool for capturing DNS requests released by the host for further forensic review.
+## SmartSniff
+Network monitor utility that allows you to review complete TCP/IP conversations dynamically.
+## Microsoft NetworkMonitor
+Microsoft Network Monitor is a deprecated packet analyzer. It enables capturing, viewing, and analyzing network data and deciphering network protocols.
+## Network Explorer
+Dynamic TCP/IP network mapper. This is an upgraded version of TcpView from Sysinternals
+## DriverMon
+Dynamic System Driver Monitor - Monitor activity of (almost) any driver.
+## Hollows Hunter
+Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
+## ProcMonX
+Procmon-like tool that uses Event Tracing for Windows (ETW) instead of a kernel driver to provide event information.
 ## Mimikatz.exe + mimidrv.sys + mimilib.dll
 Mimikatz is an open-source application that allows users to view and save authentication credentials like Kerberos tickets.
 ## Comodo Firewall - cmd_fw_installer
