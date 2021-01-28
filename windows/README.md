@@ -1,3 +1,5 @@
+## Anomaly
+Anomaly is a windows baseliner utility that leverages the native win32API for enumerating process and file information. The data Anomaly collects is outputed to the terminal shell, but you can pipe the output to a file for further review...i.e. (Anomaly.exe > OUT.txt).
 ## DNSQuerySniffer
 Recon tool for capturing DNS requests released by the host for further forensic review.
 ## SmartSniff
