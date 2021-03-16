@@ -1,3 +1,7 @@
+## CloudProviders
+A list of external IP ranges that identify traffic destined to Public cloud vendors.
+## ExternalInfra
+A list of domains commonly used for external resources such as software updates and other IT tools/documentation.
 ## Anomaly
 Anomaly is a windows baseliner utility that leverages the native win32API for enumerating process and file information. The data Anomaly collects is outputed to the terminal shell, but you can pipe the output to a file for further review...i.e. (Anomaly.exe > OUT.txt).
 ## DNSQuerySniffer
