@@ -44,3 +44,6 @@
 
 **Wazuh Agent** 
 > Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
+
+**fw.txt**
+> IPtables script for hardening network access to Linux hosts
