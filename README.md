@@ -22,3 +22,6 @@ This is a patch for CVE-2019-1182 ("DejaBlue") for Windows Server 2016.
 
 ## KB4565535  
 This is a patch for CVE-2020-1350 ("SigRed") for Windows Server 2012.  
+
+## Windows KB packages
+MS1710 Vulnerability patch for windows (KB4012212) and another patch (KB3033929) to resolve application digital signature certificate errors for legacy windows systems.
