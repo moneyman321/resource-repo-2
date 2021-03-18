@@ -70,5 +70,3 @@ SwiftonSecurity Sysmon9 XML used to configure Sysmon version 9.
 SwiftonSecurity New Sysmon XML used to configure newer sysmon versions.
 ## Sysadmin Binaries txt doc
 These binaries are essential Windows training binaries for effective systems administration. To best orchestrate distributed, multimanaged systems, a consistent reference document for such binaries allows for all members within any systems team to work effectively and in unison.  
-## Windows KB packages
-MS1710 Vulnerability patch for windows (KB4012212) and another patch (KB3033929) to resolve application digital signature certificate errors for legacy windows systems.
