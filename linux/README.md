@@ -42,3 +42,5 @@ python shelldetect.py -r True -d ./
 This is a shell script for implementing Wazuh Agent on popular Linux Distros
 Usage: ./wazuh.sh (or) bash wazuh
 
+**Wazuh Agent** 
+Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
