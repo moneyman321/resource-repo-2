@@ -33,4 +33,7 @@ Usage:
 ----------------------------------------------------------------------------------------
 
 
+palo-alto-networks-app splunk
+> Splunk app for the palo alto networks firewall 
+
 
