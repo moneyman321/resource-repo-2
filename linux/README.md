@@ -35,12 +35,12 @@
 > _Please see Splunk's website for further installation details_
 
 **ShellDetect.py**
-This python script aids in finding webshells on Linux boxes. Example usage:
-python shelldetect.py -r True -d ./
+> This python script aids in finding webshells on Linux boxes. Example usage:
+> python shelldetect.py -r True -d ./
 
 **wazuh.sh**
-This is a shell script for implementing Wazuh Agent on popular Linux Distros
-Usage: ./wazuh.sh (or) bash wazuh
+> This is a shell script for implementing Wazuh Agent on popular Linux Distros
+> Usage: ./wazuh.sh (or) bash wazuh
 
 **Wazuh Agent** 
-Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
+> Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
